@@ -18,7 +18,7 @@ End‑to‑end system that detects cardiac abnormalities from heart sound record
 
 
 - Live demo (Hugging Face Spaces): https://aryanbaliyan-heart-sound-classifier.hf.space  
-- Code: [https://github.com/AryanGit720/Heartbeat](https://github.com/Gkartik1/heart-sound-classification.git)
+- Code: (https://github.com/Gkartik1/heart-sound-classification.git)
 
 <p align="center">
   <img src="docs/screenshot-result.png" alt="App screenshot (result view)" width="85%"/>
